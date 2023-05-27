@@ -1,0 +1,27 @@
+.card-img-top {
+  width: 350px;
+}
+
+.card-body {
+  width: 350px;
+}
+
+.card-title {
+  font-size: 1.5em;
+  margin: 5%;
+}
+
+.card-text {
+  font-size: 1.3em;
+}
+
+.btn {
+  text-decoration: none;
+  background: #e45d80;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  font-family: inherit;
+  cursor: pointer;
+}
+
