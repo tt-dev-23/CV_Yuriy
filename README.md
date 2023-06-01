@@ -1,2 +1,2 @@
-# CV_Yuriy
-Curriculum Vitae of Mr. Yuriy Bespechanskiy
+# исправление по заданию HTML
+
